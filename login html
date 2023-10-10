@@ -10,6 +10,7 @@ username
 <label>
 password
 </label>
+<input type="text" placeholder="password">
 <input type="text" placeholder="username">
 </body>
 </html>
