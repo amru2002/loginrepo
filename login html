@@ -7,6 +7,9 @@
 <label>
 username
 </label>
+<label>
+password
+</label>
 <input type="text" placeholder="username">
 </body>
 </html>
